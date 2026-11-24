@@ -54,5 +54,28 @@
     font-size: 16px;
     max-width: 700px;
     padding-top: 15px;
-    
+
+}
+#informacao {
+    display: flex;
+    padding: 20px;
+    gap: 30px;
+    font-size: 14px;
+    color: #F5A623;
+    list-style-type: none;
+}
+#botao-inicio {
+    width: 120px;
+    height: 40px;
+    padding: 12px 0px 22px 0px;
+    background-color: #F5A623;
+    color: #102A43;
+    font-size: 15px;
+    border: none;
+    border-radius:  6px;
+
+}
+#botao-inicio:hover {
+    background-color: #E09612;
+    cursor: pointer;
 }
