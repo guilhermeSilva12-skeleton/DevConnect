@@ -79,3 +79,38 @@
     background-color: #E09612;
     cursor: pointer;
 }
+#programacao {
+    display: flex;
+    justify-content: center;
+    width: 1100px;
+    background-color: #F4F6F9;
+}
+#textos {
+    display: flex;
+    flex-direction: column;
+}
+#evento {
+    color: #102A43;
+    
+    font-size: 30px bold;
+
+}
+#texto2 {
+    color: #475569;
+    font-size: 15px;
+}
+.card {
+    display: flex;
+    width: 340px;
+    height: 220px;
+    border: 1px solid #DCE3EA;
+    border-radius: 10px;
+    padding: 20px;
+    margin: 50px;
+    background-color: white;
+}
+.horario {
+    color: #D97706;
+    font-size: 14px bold;
+    
+}
